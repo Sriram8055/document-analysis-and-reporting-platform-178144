@@ -1,7 +1,8 @@
 {
   "name": "react-kavia",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "private": true,
+  "description": "Document Analysis Frontend - Ocean Professional theme with upload, progress, mapping, validation, and report download.",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
@@ -10,7 +11,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "react-scripts test",
+    "test": "react-scripts test --watchAll=false",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
